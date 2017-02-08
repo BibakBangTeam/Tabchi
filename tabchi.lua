@@ -1,4 +1,4 @@
--- @TeleDiamondCh
+-- @BanG_TeaM
 
 function is_sudo(msg)
   local sudoers = {}
@@ -227,7 +227,7 @@ _اضافه کردن مخاطبين ربات به گروه_
 _دريافت لينک هاي ذخيره شده توسط ربات_
 */contactlist*
 _دريافت مخاطبان ذخيره شده توسط ربات_
-*Join* _us_ >> @TeleDiamondCh
+*Join* _us_ >> @BanG_TeaM
 ]]
     return text
   end
