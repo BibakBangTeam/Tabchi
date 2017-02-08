@@ -1,4 +1,4 @@
-#[Tablighchi](http://telegram.me/telediamondch)
+#[Moded Tabchi](http://telegram.me/Bang_TeaM)
 
 ستاره فراموش نشه
 
@@ -6,7 +6,7 @@
 
 #نصب
 ```
-git clone https://github.com/Mohammadrezar/tablighchi.git && cd tablighchi && chmod 777 install.sh && chmod +x diamond.sh && ./install.sh
+git clone https://github.com/BibqkBangTeaM/Tabchi.git && cd Tabchi && chmod 777 install.sh && chmod +x diamond.sh && ./install.sh
 ```
  
 #ساختن و ران کردن
@@ -52,7 +52,7 @@ Enter Sudo Id
 کدهای زیر را بترتیب بزنید
 
 ```
-cd tablighchi
+cd Tabchi
 
 screen ./tabchi-1.sh
 ```
@@ -94,12 +94,12 @@ python3 creator.py
 
 
 ```
-cd tablighchi
+cd Tabchi
 
 ./diamond.sh
 ```
 
-#Ch: [@TeleDiamondCh](http://telegram.me/telediamondch)
+#Ch: [@BanG_TeaM](http://telegram.me/telediamondch)
 
 #Opened By: [@Mrr619](http://telegram.me/Mrr619)
 
